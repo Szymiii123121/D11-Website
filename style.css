@@ -606,11 +606,11 @@ ul.sm li *,ul.sm li *:before,ul.sm li *:after{-moz-box-sizing:content-box;-webki
 .widget_social li a.rss:hover     {color: #f15200;}
 .widget_social li a.tumblr:hover  {color: #203550;}
 .widget_social li a.flickrs:hover        {color: #ff0084;}
-.widget_social li a.instagram:hover     {color: #507ea4;}
+.widget_social li a.instagram:hover     {color: #F97193;}
 .widget_social li a.linkedin:hover      {color: #0072b2;}
 .widget_social li a.skype:hover         {color: #00aaf1;}
 .widget_social li a.youtube:hover       {color: #ff3330;}
-.widget_social li a.dribbble:hover      { color: #f973a4;}
+.widget_social li a.dribbble:hover      { color: #507EA4;}
 
 /* =================================================================== */
 /* 5. Sidebar & Sidebar Widgets
@@ -1468,7 +1468,7 @@ ul.tags {
 .author_social li a.linkedin:hover      {background: #0072b2; color:#fff;}
 .author_social li a.skype:hover         {background: #00aaf1; color:#fff;}
 .author_social li a.youtube:hover       {background: #ff3330; color:#fff;}
-.author_social li a.dribbble:hover      { background: #f973a4; color:#fff;}
+.author_social li a.dribbble:hover      { background: #507EA4; color:#fff;}
 
 .post-author {
     margin-left:94px;
@@ -3500,11 +3500,11 @@ blockquote.default {
 .footbot_social li a.rss:hover           {color: #fff; background:#F15200; border-radius:5px;}
 .footbot_social li a.tumblr:hover        {color: #fff;}
 .footbot_social li a.flickr:hover        {color: #fff;}
-.footbot_social li a.instagram:hover     {color: #fff; background:#507ea4; border-radius:5px;}
+.footbot_social li a.instagram:hover     {color: #fff; background:#F97193; border-radius:5px;}
 .footbot_social li a.linkedin:hover      {color: #fff;}
 .footbot_social li a.skype:hover         {color: #fff; background:#00AAF1; border-radius:5px;}
 .footbot_social li a.youtube:hover       {color: #fff;}
-.footbot_social li a.dribbble:hover      { color: #fff; background:#F97193; border-radius:5px;}
+.footbot_social li a.dribbble:hover      { color: #fff; background:#507EA4; border-radius:5px;}
 
 /* ===================================================== */
 /* 30. List & Bullets												 */
