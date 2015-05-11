@@ -3500,7 +3500,7 @@ blockquote.default {
 .footbot_social li a.rss:hover           {color: #fff; background:#F15200; border-radius:5px;}
 .footbot_social li a.tumblr:hover        {color: #fff;}
 .footbot_social li a.flickr:hover        {color: #fff;}
-.footbot_social li a.instagram:hover     {color: #fff;}
+.footbot_social li a.instagram:hover     {color: #fff; background:#507ea4; border-radius:5px;}
 .footbot_social li a.linkedin:hover      {color: #fff;}
 .footbot_social li a.skype:hover         {color: #fff; background:#00AAF1; border-radius:5px;}
 .footbot_social li a.youtube:hover       {color: #fff;}
