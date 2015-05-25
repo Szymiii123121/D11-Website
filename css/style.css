@@ -2478,6 +2478,331 @@ a.read:after {
     -o-transform:scale(1.4) ;*/
 }
 
+/* service Box 4
+====================================*/
+.serviceBox_4 {
+    padding: 15px 15px 25px;
+    margin:0 auto;
+    text-align: center;
+    cursor: pointer;
+    box-shadow:0 0 4px #DEDEDE;
+    border-radius: 4px;
+}
+
+.serviceBox_4,
+.serviceBox_4 i,
+.serviceBox_4 p,
+.serviceBox_4 h3 {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.serviceBox_4 p {
+    margin: 0;
+    font-family:lato;
+}
+.serviceBox_4 h3 {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    margin-top:0;
+}
+
+.serviceBox_4 i {
+    color: #fff;
+    font-size: 2em;
+    margin: 10px 0 22px;
+    background: #313131;
+    display: inline-block;
+    width: 62px;
+    height: 62px;
+    line-height: 62px;
+    border-radius: 50%;
+}
+
+.serviceBox_4:hover {
+    background:#c1d82f;
+    color: #fff;
+    -webkit-transition: background-color 0.7s ease-in-out;
+    -moz-transition: background-color 0.7s ease-in-out;
+    -o-transition: background-color 0.7s ease-in-out;
+    -ms-transition: background-color 0.7s ease-in-out;
+    transition: background-color 0.7s ease-in-out;
+}
+
+.serviceBox_4:hover h3,
+.serviceBox_4:hover p
+{
+    color: #fff;
+}
+.serviceBox_4:hover i{
+    color:#c1d82f;
+    background:#fff;
+}
+
+/* service Box 5
+====================================*/
+.serviceBox_5 {
+    padding: 15px 15px 25px;
+    margin:0 auto;
+    text-align: center;
+    cursor: pointer;
+    box-shadow:0 0 4px #DEDEDE;
+    border-radius: 4px;
+}
+
+.serviceBox_5,
+.serviceBox_5 i,
+.serviceBox_5 p,
+.serviceBox_5 h3 {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.serviceBox_5 p {
+    margin: 0;
+    font-family:lato;
+}
+.serviceBox_5 h3 {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    margin-top:0;
+}
+
+.serviceBox_5 i {
+    color: #fff;
+    font-size: 2em;
+    margin: 10px 0 22px;
+    background: #313131;
+    display: inline-block;
+    width: 62px;
+    height: 62px;
+    line-height: 62px;
+    border-radius: 50%;
+}
+
+.serviceBox_5:hover {
+    background:#f58025;
+    color: #fff;
+    -webkit-transition: background-color 0.7s ease-in-out;
+    -moz-transition: background-color 0.7s ease-in-out;
+    -o-transition: background-color 0.7s ease-in-out;
+    -ms-transition: background-color 0.7s ease-in-out;
+    transition: background-color 0.7s ease-in-out;
+}
+
+.serviceBox_5:hover h3,
+.serviceBox_5:hover p
+{
+    color: #fff;
+}
+.serviceBox_5:hover i{
+    color:#f58025;
+    background:#fff;
+}
+
+/* service Box 6
+====================================*/
+.serviceBox_6 {
+    padding: 15px 15px 25px;
+    margin:0 auto;
+    text-align: center;
+    cursor: pointer;
+    box-shadow:0 0 4px #DEDEDE;
+    border-radius: 4px;
+}
+
+.serviceBox_6,
+.serviceBox_6 i,
+.serviceBox_6 p,
+.serviceBox_6 h3 {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.serviceBox_6 p {
+    margin: 0;
+    font-family:lato;
+}
+.serviceBox_6 h3 {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    margin-top:0;
+}
+
+.serviceBox_6 i {
+    color: #fff;
+    font-size: 2em;
+    margin: 10px 0 22px;
+    background: #313131;
+    display: inline-block;
+    width: 62px;
+    height: 62px;
+    line-height: 62px;
+    border-radius: 50%;
+}
+
+.serviceBox_6:hover {
+    background:#00aeef;
+    color: #fff;
+    -webkit-transition: background-color 0.7s ease-in-out;
+    -moz-transition: background-color 0.7s ease-in-out;
+    -o-transition: background-color 0.7s ease-in-out;
+    -ms-transition: background-color 0.7s ease-in-out;
+    transition: background-color 0.7s ease-in-out;
+}
+
+.serviceBox_6:hover h3,
+.serviceBox_6:hover p
+{
+    color: #fff;
+}
+.serviceBox_6:hover i{
+    color:#00aeef;
+    background:#fff;
+}
+
+/* service Box 7
+====================================*/
+.serviceBox_7 {
+    padding: 15px 15px 25px;
+    margin:0 auto;
+    text-align: center;
+    cursor: pointer;
+    box-shadow:0 0 4px #DEDEDE;
+    border-radius: 4px;
+}
+
+.serviceBox_7,
+.serviceBox_7 i,
+.serviceBox_7 p,
+.serviceBox_7 h3 {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.serviceBox_7 p {
+    margin: 0;
+    font-family:lato;
+}
+.serviceBox_7 h3 {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    margin-top:0;
+}
+
+.serviceBox_7 i {
+    color: #fff;
+    font-size: 2em;
+    margin: 10px 0 22px;
+    background: #313131;
+    display: inline-block;
+    width: 62px;
+    height: 62px;
+    line-height: 62px;
+    border-radius: 50%;
+}
+
+.serviceBox_7:hover {
+    background:#bc34ba;
+    color: #fff;
+    -webkit-transition: background-color 0.7s ease-in-out;
+    -moz-transition: background-color 0.7s ease-in-out;
+    -o-transition: background-color 0.7s ease-in-out;
+    -ms-transition: background-color 0.7s ease-in-out;
+    transition: background-color 0.7s ease-in-out;
+}
+
+.serviceBox_7:hover h3,
+.serviceBox_7:hover p
+{
+    color: #fff;
+}
+.serviceBox_7:hover i{
+    color:#bc34ba;
+    background:#fff;
+}
+
+/* service Box 8
+====================================*/
+.serviceBox_8 {
+    padding: 15px 15px 25px;
+    margin:0 auto;
+    text-align: center;
+    cursor: pointer;
+    box-shadow:0 0 4px #DEDEDE;
+    border-radius: 4px;
+}
+
+.serviceBox_8,
+.serviceBox_8 i,
+.serviceBox_8 p,
+.serviceBox_8 h3 {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.serviceBox_8 p {
+    margin: 0;
+    font-family:lato;
+}
+.serviceBox_8 h3 {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    margin-top:0;
+}
+
+.serviceBox_8 i {
+    color: #fff;
+    font-size: 2em;
+    margin: 10px 0 22px;
+    background: #313131;
+    display: inline-block;
+    width: 62px;
+    height: 62px;
+    line-height: 62px;
+    border-radius: 50%;
+}
+
+.serviceBox_8:hover {
+    background:#c41230;
+    color: #fff;
+    -webkit-transition: background-color 0.7s ease-in-out;
+    -moz-transition: background-color 0.7s ease-in-out;
+    -o-transition: background-color 0.7s ease-in-out;
+    -ms-transition: background-color 0.7s ease-in-out;
+    transition: background-color 0.7s ease-in-out;
+}
+
+.serviceBox_8:hover h3,
+.serviceBox_8:hover p
+{
+    color: #fff;
+}
+.serviceBox_8:hover i{
+    color:#c41230;
+    background:#fff;
+}
+
 /* ===================================================== */
 /* 15. CLIENTS												 */
 /* ===================================================== */
