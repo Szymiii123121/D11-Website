@@ -17,8 +17,8 @@ window.onload = loadScript;
  * define the coordinates of your company
  */
 
-lat = 28.65850;
-lng = 77.20341;
+lat = 40.7033127;
+lng = -73.979681;
 
 var map;
 var MY_MAPTYPE_ID = 'custom_style';
